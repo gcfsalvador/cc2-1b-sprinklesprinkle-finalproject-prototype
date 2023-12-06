@@ -3,8 +3,9 @@ Members: Salvador, Declas, Antonio, Likigan
 
 
 INSTRUCTIONS:
-- WIN 8-11 COMPATIBLE! OTHERS HELL NO
+- Literally meant for windows
 - MAKE SURE TO HAVE CURSES LIBRARY INSTALLED, IF NOT INSTALLED RUN THIS COMMAND ON YOUR TERMINAL, 'pip install windows-curses' (VERY IMPORTANT)
+- Run on Powershell "python main.py" (Strictly Important)
 - RUN main.py (REALLY IMPORTANT)
 
 ### side note
